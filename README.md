@@ -11,6 +11,7 @@ Step involve in Data preparation
 - Manage extreme value
 - Manage wrong/impossible value
 - Feature selections
+- PCA with latent features
 
 Algorithm 
 - Test with multiple algorithms (reseau de neurone, regression tree)
