@@ -1,1 +1,1 @@
-# wiki_kaggle
+# Kaggle Expedia competition
