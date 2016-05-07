@@ -1,6 +1,6 @@
 # Kaggle Expedia Competition
 
-The google of the competition is to predict hotel_cluster to user events. 
+The goal of the competition is to predict hotel_cluster to user events. 
 You may submit up to 5 predictions for each user event. 
 Submissions are evaluated according to the Mean Average Precision @ 5 (MAP@5):
 
