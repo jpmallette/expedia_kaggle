@@ -13,7 +13,7 @@ Step involve in Data preparation
 - Feature selections
 
 Algorithm 
-- Test with multiple algorithms (reseau de neurone, regression tree)
+- Test with multiple algorithms (svm, neural networks, regression tree)
 - Don't forget to optimize with the mean average Precision
 
 Nice to have 
